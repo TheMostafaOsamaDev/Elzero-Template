@@ -28,6 +28,7 @@ body {
   padding: 0;
   counter-reset: span-number;
   position: relative;
+  overflow-x: hidden;
 }
 
 .container {
