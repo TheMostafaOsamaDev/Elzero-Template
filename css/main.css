@@ -1,4 +1,7 @@
 /*START Glopal Values */
+html {
+    scroll-behavior: smooth;
+}
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
