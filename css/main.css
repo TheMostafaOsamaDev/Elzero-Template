@@ -2237,6 +2237,7 @@ textarea:focus {
 
 .show-up-theArrow {
   bottom: 30px;
+  z-index: 100000000000000;
 }
 
 .go-up-arrow:hover {
