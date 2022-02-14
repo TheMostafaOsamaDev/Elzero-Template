@@ -439,7 +439,7 @@ textarea:focus {
   color: var(--main-color);
   bottom: 150px;
   right: 50px;
-  z-index: 2;
+  z-index: -2;
 }
 
 .landing .play-trick {
