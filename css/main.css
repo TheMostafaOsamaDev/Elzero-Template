@@ -469,7 +469,7 @@ textarea:focus {
 }
 .landing .some-tricks {
   position: absolute;
-  left: 200px;
+  left: 30%;
   bottom: -12px;
   width: 150px;
   height: 150px;
